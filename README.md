@@ -1,4 +1,4 @@
-### Olá! Eu sou o Patrik Zanco 🖖
+### HI! I am Patrik Zanco 🖖
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-zanco-12b1321bb/)
@@ -9,7 +9,7 @@
 ![Patrik GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrikZanco&show_icons=true&theme=dracula)
 
 
-## Minhas Tecnologias
+## My Skills
 
 <div style = "display inline_block"><br/>
     <img aling = 'center' alt = 'Python' src = 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
@@ -18,5 +18,6 @@
     <img aling = 'center' alt = 'MySQL' src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img aling = 'center' alt = 'TensorFlow' src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img aling = 'center' alt = 'DataBricks' src = "https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
+
 </div>
 
