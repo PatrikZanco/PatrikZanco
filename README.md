@@ -2,6 +2,8 @@
 
 ![Patrik GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrikZanco&show_icons=true&theme=dracula)
 
+# See my contributions at: 
+https://github.com/pzanco-hooklab
 
 ## My Skills
 
