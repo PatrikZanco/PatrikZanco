@@ -7,7 +7,7 @@ https://github.com/pzanco-hooklab
 
 ## Languages
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,scala,go,r,js,ts,nodejs" />
+    <img src="https://skillicons.dev/icons?i=py,scala,go,r,js,ts" />
   </a>
 
 ## Devops
