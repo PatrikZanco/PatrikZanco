@@ -5,13 +5,17 @@
 # See my number of contributions at: 
 https://github.com/pzanco-hooklab
 
-## My languages
-
+## Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,r,js,ts" />
   </a>
 </p>
 
-
+## Devops
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
+  </a>
+</p>
 
