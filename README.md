@@ -9,7 +9,7 @@ https://github.com/pzanco-hooklab
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,ts,js,ts" />
+    <img src="https://skillicons.dev/icons?i=py,go,r,js,ts" />
   </a>
 </p>
 
