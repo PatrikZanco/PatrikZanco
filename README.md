@@ -1,6 +1,4 @@
-### HI! I am Patrik Zanco 🖖
-
-![Patrik GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrikZanco&show_icons=true&theme=dracula)
+### HI! I am Patrik Zanco
 
 # See my number of contributions at: 
 https://github.com/pzanco-hooklab
