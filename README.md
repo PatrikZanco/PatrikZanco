@@ -1,6 +1,6 @@
-### HI! I am Patrik Zanco
+## HI! I am Patrik Zanco
 
-# See my number of contributions at: 
+### See my number of contributions at: 
 https://github.com/pzanco-hooklab
 
 ## Languages
