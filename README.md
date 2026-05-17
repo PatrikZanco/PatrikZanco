@@ -1,8 +1,5 @@
 ## HI! I am Patrik Zanco
 
-### See my number of contributions at: 
-https://github.com/pzanco-hooklab
-
 ## Languages
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,scala,go,r,js,ts" />
